@@ -1,10 +1,10 @@
 class config:
     # Basic configuration: If you are unsure how to obtain the Bot ID, simply start the bot and it will be logged in the console.
     prefix = '/'
-    botID = 'change-me'
-    botName = 'change-me'
-    ownerName = 'change-me'
-    roomName = 'change-me'
+    botID = '66066f54d0fefe1fdf050faa'
+    botName = 'Bot'
+    ownerName = 'Being_Ur_Hrudh'
+    roomName = 'Hospital'
     coordinates = {
         'x': 8.5,
         'y': 0.6000,
@@ -44,5 +44,5 @@ class permissions:
 class authorization:
     # To obtain your token, visit https://highrise.game/ and log in. Then, go to the settings and create a new bot. Accept the terms and generate a token.
     # To obtain your room ID, go to the game and navigate to the top right corner where the player list is displayed. Click on "Share this room" and copy the ID.
-    room = 'change-me'
-    token = 'change-me'
+    room = '663b6860d9041ef4aec59fe8'
+    token = '9eedea875278779b6108bd04fe4e2cbca387626a5ee26c765b55b23fc513c049'
